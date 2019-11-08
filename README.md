@@ -9,3 +9,4 @@ Completed Labs for Dan Witte.
 5. [Lab 5](https://github.com/drywitte/IDD-Fa19-Lab5)
 6. [Lab 6](https://github.com/drywitte/IDD-Fa19-Lab6/blob/master/README.md)
 7. [Lab 7](https://github.com/drywitte/IDD-Fa19-Lab7)
+8. [Final project](https://github.com/drywitte/labryinth)
